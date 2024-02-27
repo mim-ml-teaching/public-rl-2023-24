@@ -5,6 +5,6 @@
 # Homeworks
 
 {% include file.md %}
-{% for line in file %}
+{% for line in file.md %}
   {{ line }}
 {% endfor %}
