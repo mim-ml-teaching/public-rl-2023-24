@@ -4,3 +4,6 @@
 
 # Homeworks
 
+{% for line in file %}
+  {{ line }}
+{% endfor %}
