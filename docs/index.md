@@ -4,6 +4,7 @@
 
 # Homeworks
 
+{% include 'file' %}
 {% for line in file %}
   {{ line }}
 {% endfor %}
