@@ -6,5 +6,5 @@
 
 {% include file.md %}
 {% for line in file.yaml %}
-  {{ line }}
+  * [aaa]({{ line }})
 {% endfor %}
