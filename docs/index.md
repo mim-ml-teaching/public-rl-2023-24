@@ -5,5 +5,5 @@
 # Homeworks
 
 {% for line in site.data.file %}
-	* [xxx]({{line.a}})
+* [xxx]({{line.a}})
 {% endfor %}
