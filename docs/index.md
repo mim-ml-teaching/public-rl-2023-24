@@ -4,7 +4,6 @@
 
 # Homeworks
 
-{% include file.md %}
 {% for line in file.yaml %}
-  * [aaa]({{ line }})
+	{{line.a}}
 {% endfor %}
