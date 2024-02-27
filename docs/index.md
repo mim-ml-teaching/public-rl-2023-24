@@ -5,6 +5,6 @@
 # Homeworks
 
 {% include file.md %}
-{% for line in file.md %}
+{% for line in file.yaml %}
   {{ line }}
 {% endfor %}
