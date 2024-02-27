@@ -4,6 +4,6 @@
 
 # Homeworks
 
-{% for line in file.yaml %}
+{% for line in file %}
 	{{line.a}}
 {% endfor %}
