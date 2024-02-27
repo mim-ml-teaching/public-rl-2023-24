@@ -4,7 +4,7 @@
 
 # Homeworks
 
-{% include 'file.md' %}
+{% include file.md %}
 {% for line in file %}
   {{ line }}
 {% endfor %}
