@@ -4,6 +4,6 @@
 
 # Homeworks
 
-{% for line in file %}
+{% for line in site.data.file %}
 	{{line.a}}
 {% endfor %}
