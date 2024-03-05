@@ -1,2 +1,4 @@
 - name: Lab 1
   file: RL_Lab_1_dynamic_programming_student_version.ipynb
+- name: Lab 2
+  file: RL_Lab_2_tensorflow_tutorial_student_version.ipynb
