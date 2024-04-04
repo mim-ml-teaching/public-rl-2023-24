@@ -6,3 +6,5 @@
   file: RL_Lab_3_Monte_Carlo_Control,_Q_Learning,_SARSA_student_version.ipynb
 - name: Lab 4
   file: RL_Lab_4_DQN_Function_approximation_lab_student.ipynb
+- name: Lab 5
+  file: RL_Lab_5_Rainbow_student.ipynb
