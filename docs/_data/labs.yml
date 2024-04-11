@@ -8,3 +8,5 @@
   file: RL_Lab_4_DQN_Function_approximation_lab_student.ipynb
 - name: Lab 5
   file: RL_Lab_5_Rainbow_student.ipynb
+- name: Lab 6
+  file: RL_Lab_6_bandits_student.ipynb
