@@ -10,3 +10,5 @@
   file: RL_Lab_5_Rainbow_student.ipynb
 - name: Lab 6
   file: RL_Lab_6_bandits_student.ipynb
+- name: Lab 7
+  file: RL_Lab_7_MCTS_student.ipynb
