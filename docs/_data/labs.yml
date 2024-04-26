@@ -12,3 +12,5 @@
   file: RL_Lab_6_bandits_student.ipynb
 - name: Lab 7
   file: RL_Lab_7_MCTS_student.ipynb
+- name: Lab 8
+  file: RL_Lab_8_Imitation_Learning_student.ipynb
