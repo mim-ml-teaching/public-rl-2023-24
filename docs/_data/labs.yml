@@ -14,3 +14,5 @@
   file: RL_Lab_7_MCTS_student.ipynb
 - name: Lab 8
   file: RL_Lab_8_Imitation_Learning_student.ipynb
+- name: Lab 9
+  file: RL_Lab_9_Soft_Actor_Critic_student.ipynb
