@@ -1,2 +1,4 @@
 - name: Homework 1
   file: RL_homework_1_student.ipynb
+- name: Homework 2
+  file: RL_homework_2_student.ipynb
