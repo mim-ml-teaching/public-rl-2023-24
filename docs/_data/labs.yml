@@ -18,3 +18,5 @@
   file: RL_Lab_9_Soft_Actor_Critic_student.ipynb
 - name: Lab 10
   file: RL_Lab_10_Model_based_RL_student.ipynb
+- name: Lab 11
+  file: RL_Lab_11_Decision_Transformer_student.ipynb
